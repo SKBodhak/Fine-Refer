@@ -4,5 +4,8 @@
   },
   "FINE-XAOIF": {
     "expiresAt": "lifetime"
+  },
+  "FINE-P7LGB": {
+    "expiresAt": "lifetime"
   }
 }
