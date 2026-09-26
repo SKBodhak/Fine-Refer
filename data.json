@@ -1,5 +1,8 @@
 {
   "FINE-FC1ST": {
     "expiresAt": 1821971631669
+  },
+  "FINE-XAOIF": {
+    "expiresAt": "lifetime"
   }
 }
